@@ -13,7 +13,7 @@ def measure(n):
   return end_time - start_time
 
 
-max_digits = 11
+max_digits = int(input("maximum digits: "))
 arr = []
 
 for i in range(1, max_digits + 1):
