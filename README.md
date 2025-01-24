@@ -12,7 +12,7 @@ This repository hosts files used in a college machine to prove the claims made i
 
 There is also a Google Colab document used for the research that can be found [here](https://colab.research.google.com/drive/1j8O2CBOzOVW6lZ-2VY3NIGWWetRnYn8B?usp=sharing).
 
-If you want to read the research feel free to do so [here]().
+If you want to read the research feel free to do so [here](https://zenodo.org/records/14728899).
 
 ## Authors
 
